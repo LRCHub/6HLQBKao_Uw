@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dino Soul",
+  "base_artist": "Meeko",
+  "createdAt": "2026-01-09T06:39:57.217686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dino Soul",
+      "artist": "Meeko(CV:中村静香)",
+      "has_synced": true,
+      "path": "select/01_Dino_Soul_Meeko(CV_中村静香).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dino Soul",
+      "artist": "天野美琴(CV:中村静香)",
+      "has_synced": true,
+      "path": "select/02_Dino_Soul_天野美琴(CV_中村静香).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dino Soul(古代ver.)",
+      "artist": "天野美琴(CV中村静香)",
+      "has_synced": true,
+      "path": "select/03_Dino_Soul(古代ver.)_天野美琴(CV中村静香).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dino Soul",
+      "artist": "Meeko",
+      "has_synced": true,
+      "path": "select/04_Dino_Soul_Meeko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dino Soul",
+      "artist": "Meeko (中村静香)",
+      "has_synced": true,
+      "path": "select/05_Dino_Soul_Meeko_(中村静香).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dino Soul (古代ver.)",
+      "artist": "キョウリュウジャー (竜星涼, 斉藤秀翼, 金城大和, 塩野瑛久, 今野鮎莉, 丸山敦史)",
+      "has_synced": true,
+      "path": "select/06_Dino_Soul_(古代ver.)_キョウリュウジャー_(竜星涼,_斉藤秀翼,_金城大和,_塩野瑛久,_今野鮎莉,_丸山敦史).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dino Soul (古代ver.)",
+      "artist": "天野美琴 (中村静香)",
+      "has_synced": true,
+      "path": "select/07_Dino_Soul_(古代ver.)_天野美琴_(中村静香).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dino Soul",
+      "artist": "Meeko(CV:中村静香)",
+      "has_synced": false,
+      "path": "select/pl_01_Dino_Soul_Meeko(CV_中村静香).txt"
+    }
+  ]
+}
